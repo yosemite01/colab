@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  hsl(330, 46%, 89%);
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-size: 23px;
+    text-align: center;
+}
+p{
+    opacity: .4;
+    text-align: center;
+    
+}
+
+.simp {
+    width: 300px;
+    height: 30;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1em;
+}
+
